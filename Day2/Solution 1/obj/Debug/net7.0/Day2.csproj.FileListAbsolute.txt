@@ -1,0 +1,30 @@
+C:\Develop\aoc2022\Day2\obj\Debug\net7.0\Day2.csproj.AssemblyReference.cache
+C:\Develop\aoc2022\Day2\obj\Debug\net7.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Develop\aoc2022\Day2\obj\Debug\net7.0\Day2.AssemblyInfoInputs.cache
+C:\Develop\aoc2022\Day2\obj\Debug\net7.0\Day2.AssemblyInfo.cs
+C:\Develop\aoc2022\Day2\obj\Debug\net7.0\Day2.csproj.CoreCompileInputs.cache
+C:\Develop\aoc2022\Day2\bin\Debug\net7.0\Day2.exe
+C:\Develop\aoc2022\Day2\bin\Debug\net7.0\Day2.deps.json
+C:\Develop\aoc2022\Day2\bin\Debug\net7.0\Day2.runtimeconfig.json
+C:\Develop\aoc2022\Day2\bin\Debug\net7.0\Day2.dll
+C:\Develop\aoc2022\Day2\bin\Debug\net7.0\Day2.pdb
+C:\Develop\aoc2022\Day2\obj\Debug\net7.0\Day2.dll
+C:\Develop\aoc2022\Day2\obj\Debug\net7.0\refint\Day2.dll
+C:\Develop\aoc2022\Day2\obj\Debug\net7.0\Day2.pdb
+C:\Develop\aoc2022\Day2\obj\Debug\net7.0\Day2.genruntimeconfig.cache
+C:\Develop\aoc2022\Day2\obj\Debug\net7.0\ref\Day2.dll
+C:\Develop\aoc2022\Day2\Solution 1\bin\Debug\net7.0\Day2.exe
+C:\Develop\aoc2022\Day2\Solution 1\bin\Debug\net7.0\Day2.deps.json
+C:\Develop\aoc2022\Day2\Solution 1\bin\Debug\net7.0\Day2.runtimeconfig.json
+C:\Develop\aoc2022\Day2\Solution 1\bin\Debug\net7.0\Day2.dll
+C:\Develop\aoc2022\Day2\Solution 1\bin\Debug\net7.0\Day2.pdb
+C:\Develop\aoc2022\Day2\Solution 1\obj\Debug\net7.0\Day2.csproj.AssemblyReference.cache
+C:\Develop\aoc2022\Day2\Solution 1\obj\Debug\net7.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Develop\aoc2022\Day2\Solution 1\obj\Debug\net7.0\Day2.AssemblyInfoInputs.cache
+C:\Develop\aoc2022\Day2\Solution 1\obj\Debug\net7.0\Day2.AssemblyInfo.cs
+C:\Develop\aoc2022\Day2\Solution 1\obj\Debug\net7.0\Day2.csproj.CoreCompileInputs.cache
+C:\Develop\aoc2022\Day2\Solution 1\obj\Debug\net7.0\Day2.dll
+C:\Develop\aoc2022\Day2\Solution 1\obj\Debug\net7.0\refint\Day2.dll
+C:\Develop\aoc2022\Day2\Solution 1\obj\Debug\net7.0\Day2.pdb
+C:\Develop\aoc2022\Day2\Solution 1\obj\Debug\net7.0\Day2.genruntimeconfig.cache
+C:\Develop\aoc2022\Day2\Solution 1\obj\Debug\net7.0\ref\Day2.dll
