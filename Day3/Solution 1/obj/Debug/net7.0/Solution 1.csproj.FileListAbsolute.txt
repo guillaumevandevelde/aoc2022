@@ -1,0 +1,15 @@
+C:\Develop\aoc2022\Day3\Solution 1\bin\Debug\net7.0\Solution 1.exe
+C:\Develop\aoc2022\Day3\Solution 1\bin\Debug\net7.0\Solution 1.deps.json
+C:\Develop\aoc2022\Day3\Solution 1\bin\Debug\net7.0\Solution 1.runtimeconfig.json
+C:\Develop\aoc2022\Day3\Solution 1\bin\Debug\net7.0\Solution 1.dll
+C:\Develop\aoc2022\Day3\Solution 1\bin\Debug\net7.0\Solution 1.pdb
+C:\Develop\aoc2022\Day3\Solution 1\obj\Debug\net7.0\Solution 1.csproj.AssemblyReference.cache
+C:\Develop\aoc2022\Day3\Solution 1\obj\Debug\net7.0\Solution 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Develop\aoc2022\Day3\Solution 1\obj\Debug\net7.0\Solution 1.AssemblyInfoInputs.cache
+C:\Develop\aoc2022\Day3\Solution 1\obj\Debug\net7.0\Solution 1.AssemblyInfo.cs
+C:\Develop\aoc2022\Day3\Solution 1\obj\Debug\net7.0\Solution 1.csproj.CoreCompileInputs.cache
+C:\Develop\aoc2022\Day3\Solution 1\obj\Debug\net7.0\Solution 1.dll
+C:\Develop\aoc2022\Day3\Solution 1\obj\Debug\net7.0\refint\Solution 1.dll
+C:\Develop\aoc2022\Day3\Solution 1\obj\Debug\net7.0\Solution 1.pdb
+C:\Develop\aoc2022\Day3\Solution 1\obj\Debug\net7.0\Solution 1.genruntimeconfig.cache
+C:\Develop\aoc2022\Day3\Solution 1\obj\Debug\net7.0\ref\Solution 1.dll
